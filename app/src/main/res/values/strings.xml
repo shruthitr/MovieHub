@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Hub</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">Movie Hub</string>
+    <string name="text_desc">"You are here to find details about the awesome movies which are playing in theatres now and releasing soon</string>
+    <string name="trailer_button">CLICK HERE TO WATCH THE TRAILER</string>
+    <string name="toast_text">Sorry, could not find a trailer in YouTube</string>
+
+    <!-- MovieList Controller -->
+    <string name="noConnection">Unable to fetch data from server.</string>
+    <string name="loadingMore">Loading more…</string>
+
+    <!-- MovieDetails Controller -->
+    <string name="min">min.</string>
+    <string name="voteCount">votes</string>
+    <string name="noOverview">Sorry, currently there is no overview for this movie.</string>
+
+
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Movies</item>
+        <item>Genres</item>
+        <item>Back</item>
+        <item>Log Out</item>
+    </string-array>
+
+    <!-- ActionBar titles -->
+    <string name="moviesTitle">Movies</string>
+    <string name="genresTitle">Genres</string>
+
+    <!-- Movies tabs -->
+    <string-array name="moviesTabs">
+        <item>Upcoming</item>
+        <item>Now Playing</item>
+        <item>Popular</item>
+        <item>Top Rated</item>
+    </string-array>
+
+    <!-- detailTabs tabs -->
+    <string-array name="detailTabs">
+        <item>Info</item>
+        <item>Overview</item>
+    </string-array>
+
+    <!-- Search -->
+    <string name="search_title">Search</string>
+    <string name="search_hint">Search…</string>
+    <string name="nomoreresults">No more results.</string>
+    <string name="noResults">Sorry, no results found.</string>
+    <string name="timeout">Connection timed out, please try again</string>
+
+
+</resources>
